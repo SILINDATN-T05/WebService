@@ -1,0 +1,7 @@
+webservice/api/models/CountryModel.class
+webservice/api/services/CityService.class
+webservice/api/services/CountryService.class
+webservice/api/controller/WebServiceController.class
+webservice/api/models/CityModel.class
+webservice/api/models/IPS.class
+webservice/api/WebServiceApplication.class
